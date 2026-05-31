@@ -1,0 +1,20 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "backend1 mon phat trien ung dung web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Khai Tran",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
